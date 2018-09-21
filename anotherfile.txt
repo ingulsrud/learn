@@ -2,4 +2,4 @@ This is Yet Another File.
 
 It uses correct punctuation.
 
-Modified September 21, 2018 19:06:04 JST by Joel Ingulsrud
+Modified by Joel Ingulsrud @ 2018-09-21 20:11:18 JST
