@@ -9,6 +9,7 @@
 ---
 
 ![Thirdculture logo](/media/ThirdCultureLogoSmall.gif)
+
 My consultancy, which used to be called _Third Culture Enterprises_ and is now just referred to as **Third Culture** has been active since the late 1980s. The [website](https://thirdculture.com/) has been up since 1986 or so.
 
 ---
@@ -19,9 +20,9 @@ My consultancy, which used to be called _Third Culture Enterprises_ and is now j
 2. A year?
 3. 30 years?
 
-• It's been fun
-• It's been interesting
-• It's been a really long time
+* It's been fun
+* It's been interesting
+* It's been a really long time
 
 `joel@thirdculture.com`
 
